@@ -1,0 +1,4 @@
+name: Gembangplugin
+version: '${project.version}'
+main: gembangplugin.gembangplugin.Gembangplugin
+api-version: 1.17
